@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div align="center">
+    <h1><u>Registration form</u></h1>
+   first name <input type="text"><br><br>
+   last name<input type="text"><br><br>
+   gender :<input type="radio" name="a">male 
+          <input type="radio"name="a">female<br><br>
+   city :<input type="checkbox">banglore
+         <input type="checkbox">hyderabad
+         <input type="checkbox">chennai<br><br>
+   course :<select>
+    <option>english</option>
+    <option>maths</option>
+     <option value="s" selected>science</option>
+   </select><br><br>
+   email <input type="mail"><br><br>
+password <input type="password"><br><br>
+dob:<input type="date"><br><br>
+time:<input type="time"> to <input type="time"><br><br>
+certificate:<input type="file"><br><br>
+<input type="submit"><br><br>
+<img src="https://images.pexels.com/photos/14842283/pexels-photo-14842283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width="200px" heighht="300px">
+</div>
+</body>
+</html>
